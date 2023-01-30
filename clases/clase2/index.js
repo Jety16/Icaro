@@ -1,5 +1,5 @@
 let nombre = "el pepe";
-let appelido = "ETE SETCH";
+let appelido = "sanchez";
 let edad = 20900;
 
 
