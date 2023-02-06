@@ -1,5 +1,6 @@
-const resultado = (x) => {
-    return x*23;
-};
+function multiplicar (n) {
+    return n * 23;
+   }
 
-console.log(resultado(0));
+const resultado = multiplicar(2);
+console.log(resultado);

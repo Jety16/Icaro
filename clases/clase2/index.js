@@ -10,7 +10,3 @@ function concatValues(){
 
 
 console.log(concatValues())
-<<<<<<< HEAD
-=======
-
->>>>>>> 7342c89 (add practico2)

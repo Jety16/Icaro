@@ -9,6 +9,7 @@ const building_length = EDIFICIO.length
 
 if (train_length < building_length){
     console.log(TREN);
-};
-
-console.log(EDIFICIO);
+}
+else {
+    console.log(EDIFICIO);
+}
